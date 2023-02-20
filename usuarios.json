@@ -1,0 +1,24 @@
+{
+  "usuarios": {
+    "usuario": [
+      {
+        "id": "1",
+        "firstName": "Tom",
+        "lastName": "Cruise",
+        "password": "tom"
+      },
+      {
+        "id": "2",
+        "firstName": "Maria",
+        "lastName": "Sharapova",
+        "password": "maria"
+      },
+      {
+        "id": "3",
+        "firstName": "Robert",
+        "lastName": "Downey Jr.",
+        "password": "robert"
+      }
+    ]
+  }
+}
