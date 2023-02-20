@@ -115,6 +115,13 @@ function agregar(id) {
         totalc.innerHTML="Total de compra: " + total ;
 //        alert("Sr/a" + clientee.nombrecli + " se agregó Mate " + mates[parseInt(id) - 1] + "  al carrito, $ " + precios[parseInt(id) - 1] + ". Total de compra: " + total)
     }    
+    Swal.fire({
+        title: 'Genial!',
+        text: 'Haz agregado un Mate al carrito ',
+        icon: 'success',
+        confirmButtonText: 'Volver'
+       })
+       
 };
 
 
