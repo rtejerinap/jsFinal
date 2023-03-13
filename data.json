@@ -1,0 +1,8 @@
+[
+    {"nombre": "Stitch" , "precio": 1500, "idProd": 1, "imagen": "./img/imagen1.jpg", "stock": 10},
+    {"nombre": "Piston" , "precio": 2500, "idProd": 2, "imagen": "./img/piston.jpg", "stock": 10 },
+    {"nombre": "Grogu" , "precio": 3500, "idProd": 3, "imagen": "./img/grogu.jpg", "stock": 10},
+    {"nombre": "Gokú" , "precio": 4500, "idProd": 4, "imagen": "./img/Deadpool.jpg", "stock": 10 },
+    {"nombre": "Deadpool" , "precio": 4500, "idProd": 5, "imagen": "./img/GOKU.jpg", "stock": 10 },
+    {"nombre": "Storm Trooper" , "precio": 5500, "idProd": 6, "imagen": "./img/storm.jpg", "stock": 10 }
+]
